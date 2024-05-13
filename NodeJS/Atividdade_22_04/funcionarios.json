@@ -1,0 +1,17 @@
+[
+  {
+    "nome": "Maria Eduarda",
+    "cargo": "Design",
+    "cpf": "123.456.789-00",
+    "email": "Eduarda@example.com",
+    "telefone": "(11) 98765-4321",
+    "data_contratacao": "2022-01-10",
+    "salario": 10500,
+    "habilidades": [
+      "Figma",
+      "Photoshop",
+      "Ilustrator"
+    ],
+    "id": "b1d1397f-aea0-4273-ac6e-3414377ac9de"
+  }
+]

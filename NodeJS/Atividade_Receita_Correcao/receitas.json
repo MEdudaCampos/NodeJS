@@ -1,0 +1,19 @@
+[
+  {
+    "nome": "Risoto de Funghi",
+    "categoria": "Pratos Principais",
+    "ingredientes": [
+      "200g de arroz arbóreo",
+      "50g de funghi secchi",
+      "1 cebola picada",
+      "2 dentes de alho picados",
+      "100ml de vinho branco seco",
+      "1 litro de caldo de legumes",
+      "50g de manteiga",
+      "Queijo parmesão ralado a gosto",
+      "Sal e pimenta a gosto"
+    ],
+    "modoDePreparo": "Refogue a cebola e o alho em um pouco de azeite. Adicione o arroz arbóreo e mexa por alguns minutos. Acrescente o vinho branco e deixe evaporar. Hidrate o funghi secchi em água quente por 15 minutos, escorra e pique. Adicione o funghi ao risoto e vá adicionando o caldo de legumes aos poucos, mexendo sempre, até o arroz estar cozido. Misture a manteiga e o queijo parmesão. Sirva quente, salpicado com mais queijo parmesão.",
+    "id": 1
+  }
+]

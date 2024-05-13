@@ -1,0 +1,27 @@
+GET http://localhost:3333/livros
+
+###
+POST http://localhost:3333/livros
+Content-Type: application/json
+
+{
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "J.K. Rowling",
+    "genero": "Ficção",
+    "anoPublicacao": 1997,
+    "personagens": ["Harry Potter", "Hermione Granger", "Ronald Weasley"]
+}
+
+###
+PUT http://localhost:3333/livros/1
+
+{
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "J.K. Rowling",
+    "genero": "Ficção",
+    "anoPublicacao": 1997,
+    "personagens": ["Alvo damboldor", "Hermione Granger", "Ronald Weasley"]
+}
+
+###
+DELETE http://localhost:3333/livros/1
